@@ -1,4 +1,6 @@
-The Google, or There and Back Again
-========
+#The Google, or There and Back Again
 
-* [Read more words!](./task.md)
+* [Before start](https://habrahabr.ru/post/279651/)
+* [Real task](./task.md)
+* [Resources](./resources.md)
+

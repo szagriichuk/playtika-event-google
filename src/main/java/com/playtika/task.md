@@ -1,1 +1,3 @@
-[Task](https://leetcode.com/problems/min-stack/)
+[Task Link](https://leetcode.com/problems/min-stack/)
+
+[Back](./main.md)
