@@ -1,0 +1,11 @@
+template:
+    url: https://github.com/CouscousPHP/Template-Light
+
+baseUrl: http://szagriichuk.github.io/playtika-event-google/
+
+github:
+    user: szagriichuk
+    repo: playtika-event-google
+
+title: Playtika Event
+subTitle: Sergii Zagriichuk
